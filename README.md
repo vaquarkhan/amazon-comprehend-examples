@@ -1,5 +1,7 @@
 # Amazon Comprehend Examples
 
+- https://aws.amazon.com/blogs/machine-learning/protect-pii-using-amazon-s3-object-lambda-to-process-and-modify-data-during-retrieval/
+
 This repository contains scripts, tutorials, and data for our customers to use when experimenting with features released by AWS Comprehend.
 
 # Packages
